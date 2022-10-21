@@ -1,0 +1,8 @@
+include ':engine'
+include ':engine_android'
+
+include ':bubble_shooter'
+include ':bubble_shooter_desktop'
+include ':bubble_shooter_android'
+
+include ':bubble_shooter_level_editor'

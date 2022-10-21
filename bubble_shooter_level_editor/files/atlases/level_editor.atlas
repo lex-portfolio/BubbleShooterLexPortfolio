@@ -1,0 +1,153 @@
+
+level_editor.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearNearest, Linear
+repeat: none
+arrow_1
+  rotate: false
+  xy: 167, 116
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+ball_blue
+  rotate: false
+  xy: 326, 175
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+ball_bomb
+  rotate: false
+  xy: 8, 8
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+ball_cyan
+  rotate: false
+  xy: 687, 695
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+ball_fire
+  rotate: false
+  xy: 846, 537
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ball_iron
+  rotate: false
+  xy: 528, 684
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+ball_lime
+  rotate: false
+  xy: 847, 695
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+ball_magenta
+  rotate: false
+  xy: 687, 854
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ball_orange
+  rotate: false
+  xy: 687, 536
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+ball_purple
+  rotate: false
+  xy: 528, 525
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+ball_red
+  rotate: false
+  xy: 167, 164
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+ball_white
+  rotate: false
+  xy: 326, 334
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ball_yellow
+  rotate: false
+  xy: 847, 854
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+btn_back
+  rotate: false
+  xy: 167, 323
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1
+btn_del
+  rotate: false
+  xy: 528, 843
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1
+btn_next
+  rotate: false
+  xy: 486, 335
+  size: 140, 151
+  orig: 140, 151
+  offset: 0, 0
+  index: -1
+btn_plus
+  rotate: false
+  xy: 8, 152
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1
+btn_regenerate
+  rotate: false
+  xy: 8, 323
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1
+cross_1
+  rotate: false
+  xy: 166, 22
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+explosion_1
+  rotate: false
+  xy: 8, 494
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 486, 177
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+*.sav
+**/libs/
+**/.idea/
+**/.gradle/
+**/build/
+**/captures/
+**/gradlew
+**/gradlew.bat
+**/local.properties
+**/project.properties
+*.iml
